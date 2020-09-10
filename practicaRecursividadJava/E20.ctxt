@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E20
+comment1.params=cad
+comment1.target=boolean\ palindromo(java.lang.String)
+comment2.params=i\ j\ cad
+comment2.target=boolean\ palindromo(int,\ int,\ java.lang.String)
+numComments=3

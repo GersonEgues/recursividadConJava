@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Estadistiquita
+comment1.params=inf\ sup
+comment1.target=int\ getCardEnIntervalo(int,\ int)
+comment2.params=inf\ sup
+comment2.target=int\ getCardEnIntervalo2(double,\ double)
+numComments=3

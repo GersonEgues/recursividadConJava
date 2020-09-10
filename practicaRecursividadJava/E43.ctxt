@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E43
+comment1.params=cad\ pat
+comment1.target=int\ patronAproximacion(java.lang.String,\ java.lang.String)
+comment2.params=cad\ pat\ i
+comment2.target=int\ patron(java.lang.String,\ java.lang.String,\ int)
+comment3.params=cad\ pat\ i\ j
+comment3.target=boolean\ reconocerPat(java.lang.String,\ java.lang.String,\ int,\ int)
+comment4.params=str\ c\ i
+comment4.target=java.lang.String\ eliminarRep(java.lang.String,\ char,\ int)
+numComments=5

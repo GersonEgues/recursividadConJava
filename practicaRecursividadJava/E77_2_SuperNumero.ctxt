@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E77_2_SuperNumero
+comment1.params=n
+comment1.target=boolean\ superNumero(int)
+comment2.params=n\ pow\ ans
+comment2.target=int\ superNumero(int,\ int,\ boolean[])
+comment3.params=n\ pow
+comment3.target=int\ sumatoriaPow(int,\ int)
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=E81
+comment1.params=sec\ i\ j
+comment1.target=int\ pares(int[],\ int,\ int)
+numComments=2

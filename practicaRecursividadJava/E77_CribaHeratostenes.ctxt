@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=E77_CribaHeratostenes
+comment1.params=n
+comment1.target=java.util.ArrayList\ cribaHeratostenes(int)
+comment2.params=i\ sec
+comment2.target=java.util.ArrayList\ getPrimos(int,\ int[])
+comment3.params=i\ sec
+comment3.target=void\ criba(int,\ int[])
+comment4.params=n\ i\ sec
+comment4.target=void\ marcarMultiplos(int,\ int,\ int[])
+comment5.params=sec\ i
+comment5.target=void\ llenarSecuencia(int[],\ int)
+numComments=6

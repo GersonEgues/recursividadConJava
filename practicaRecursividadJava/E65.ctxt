@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E65
+comment1.params=n
+comment1.target=int\ cubico(int)
+comment2.params=n1\ suma\ cont
+comment2.target=int\ cubico(int,\ int,\ int)
+numComments=3

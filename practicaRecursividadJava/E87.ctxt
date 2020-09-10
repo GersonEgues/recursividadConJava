@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E87
+comment1.params=n
+comment1.target=boolean\ curioso(int)
+comment2.params=n
+comment2.target=int\ sumafactorial(int)
+comment3.params=n
+comment3.target=int\ factorial(int)
+numComments=4

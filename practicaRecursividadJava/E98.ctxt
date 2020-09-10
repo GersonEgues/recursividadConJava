@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=E98
+comment1.params=lomas\ p
+comment1.target=java.util.ArrayList\ getMejorLoma(int[],\ int)
+comment2.params=lomas\ max\ i\ p
+comment2.target=void\ getLomas(int[],\ java.util.ArrayList,\ int,\ int)
+comment3.params=i\ lomas\ ans
+comment3.target=int\ getLomaSubida(int,\ int[],\ java.util.ArrayList)
+comment4.params=i\ lomas\ ans
+comment4.target=int\ getLomaBajada(int,\ int[],\ java.util.ArrayList)
+comment5.params=sec\ p\ i
+comment5.target=boolean\ cumpleP(java.util.ArrayList,\ int,\ int)
+numComments=6

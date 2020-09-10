@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E57
+comment1.params=n\ b
+comment1.target=int\ autocontenciones(int,\ int)
+comment2.params=n\ b\ i
+comment2.target=int\ autocnt(int,\ int,\ int)
+numComments=3

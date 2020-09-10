@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E96
+comment1.params=n
+comment1.target=java.util.ArrayList\ alicuota(int)
+comment2.params=sec\ ni\ n\ suma
+comment2.target=int\ secuencia(java.util.ArrayList,\ int,\ int,\ int)
+numComments=3

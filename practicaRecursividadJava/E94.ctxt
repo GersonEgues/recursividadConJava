@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E94
+comment1.params=n\ poema
+comment1.target=boolean\ poemaMatematico(java.lang.String,\ java.lang.String)
+comment2.params=n\ poema\ i
+comment2.target=boolean\ poemaMatematico(java.lang.String,\ java.lang.String[],\ int)
+numComments=3

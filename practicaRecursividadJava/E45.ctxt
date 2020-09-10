@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E45
+comment1.params=cad
+comment1.target=void\ frecuencia(java.lang.String)
+comment2.params=cad\ i\ map
+comment2.target=void\ frecuencia(java.lang.String,\ int,\ java.util.HashMap)
+comment3.params=cad\ i
+comment3.target=java.lang.String\ extraerSubcadena(java.lang.String,\ int)
+numComments=4

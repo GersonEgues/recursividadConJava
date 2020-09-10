@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E50
+comment1.params=cad
+comment1.target=java.lang.String\ print(java.lang.String)
+comment2.params=ans\ cadena\ frec\ i
+comment2.target=java.lang.String\ dibujarOndas(java.lang.String,\ java.lang.String,\ int[],\ int)
+comment3.params=c\ f
+comment3.target=java.lang.String\ dibujar(char,\ int)
+comment4.params=ans\ cad\ i\ frec\ k
+comment4.target=java.lang.String\ contraer(java.lang.String,\ java.lang.String,\ int,\ int[],\ int)
+numComments=5

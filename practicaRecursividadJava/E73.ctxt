@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=E73
+comment0.text=\r\n\ k\ \=\ 13,\ sqrt(13)\=3.60\ \=\ 4\ ,\ i\ \=\ [2,3,4],\ si\ 13%i\ \!\=\ 0\ ->\ primo\r\n\ \r\n\ \r\n
+comment1.params=n
+comment1.target=int\ primerTermino(int)
+comment2.params=ini
+comment2.target=int\ pt(int)
+comment3.params=n\ ini\ fin
+comment3.target=boolean\ primo(int,\ int,\ int)
+numComments=4

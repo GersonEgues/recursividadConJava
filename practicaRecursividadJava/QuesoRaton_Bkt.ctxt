@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QuesoRaton_Bkt
+comment1.params=i\ j
+comment1.target=boolean\ hayCamino(int,\ int)
+comment2.params=i\ j\ mat
+comment2.target=boolean\ hayCamino(int,\ int,\ int[][])
+comment3.params=
+comment3.target=int\ numeroCaminos()
+comment4.params=i\ j\ mat
+comment4.target=int\ numeroCaminos(int,\ int,\ int[][])
+comment5.params=
+comment5.target=void\ todosLosCaminos()
+comment6.params=i\ j\ mat\ caminos\ camino
+comment6.target=void\ todosLosCaminos(int,\ int,\ int[][],\ java.util.ArrayList,\ java.util.ArrayList)
+comment7.params=x\ y\ mat
+comment7.target=boolean\ posicionValida(int,\ int,\ int[][])
+numComments=8

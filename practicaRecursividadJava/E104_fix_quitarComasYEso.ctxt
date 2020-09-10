@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E104_fix_quitarComasYEso
+comment1.params=str\ longi
+comment1.target=void\ longi(java.lang.String,\ int)
+comment2.params=list\ set\ i\ longi
+comment2.target=void\ analizar(java.lang.String[],\ java.util.HashSet,\ int,\ int)
+comment3.params=set
+comment3.target=void\ imprimirDatos(java.util.HashSet)
+numComments=4

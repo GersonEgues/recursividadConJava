@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E67
+comment1.params=cad
+comment1.target=boolean\ tautograma(java.lang.String)
+comment2.params=c\ cad\ i
+comment2.target=boolean\ tautograma(char,\ java.lang.String,\ int)
+numComments=3

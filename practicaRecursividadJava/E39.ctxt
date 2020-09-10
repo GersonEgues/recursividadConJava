@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E39
+comment1.params=cad
+comment1.target=java.lang.String\ cadenaReducida(java.lang.String)
+comment2.params=cad\ index\ c\ con
+comment2.target=java.lang.String\ cr(java.lang.String,\ int,\ char,\ int)
+numComments=3

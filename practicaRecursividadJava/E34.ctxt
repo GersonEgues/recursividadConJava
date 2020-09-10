@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E34
+comment1.params=a
+comment1.target=java.util.ArrayList\ subsecuenciaMasLarga(int[])
+comment2.params=a\ i\ lista\ aux
+comment2.target=java.util.ArrayList\ subsequencia(int[],\ int,\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=lista
+comment3.target=java.util.ArrayList\ copiar(java.util.ArrayList)
+numComments=4

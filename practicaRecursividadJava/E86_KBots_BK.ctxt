@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=E86_KBots_BK
+comment1.params=
+comment1.target=void\ documento()
+comment2.params=i\ j\ mat\ ans\ a
+comment2.target=boolean\ documento(int,\ int,\ char[][],\ java.util.ArrayList,\ char)
+comment3.params=i\ j\ mat\ ans\ camino\ a
+comment3.target=void\ documentoConMinas(int,\ int,\ char[][],\ java.util.ArrayList,\ java.util.ArrayList,\ char)
+comment4.params=sec\ k
+comment4.target=int\ numMinas(java.util.ArrayList,\ int)
+comment5.params=ans\ n
+comment5.target=void\ llenarMinas(java.util.ArrayList,\ int)
+comment6.params=x\ y\ mat
+comment6.target=boolean\ posicionValida(int,\ int,\ char[][])
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E92_stackOverflow
+comment1.params=sec
+comment1.target=boolean\ sociables(int[])
+comment2.params=sec\ i
+comment2.target=boolean\ sociables(int[],\ int)
+comment3.params=n\ i\ j
+comment3.target=int\ sumaDivisores(int,\ int,\ int)
+numComments=4

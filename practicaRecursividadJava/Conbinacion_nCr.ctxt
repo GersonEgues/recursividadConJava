@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Conbinacion_nCr
+comment1.params=datos\ r
+comment1.target=java.util.ArrayList\ conbinacioness(int[],\ int)
+comment2.params=datos\ r\ i
+comment2.target=java.util.ArrayList\ conbinaciones_nCr(int[],\ int,\ int)
+comment3.params=datos\ r
+comment3.target=java.util.ArrayList\ conbinaciones(int[],\ int)
+comment4.params=n\ con\ i
+comment4.target=void\ mix(int,\ java.util.ArrayList,\ int)
+comment5.params=datos\ ans\ i\ j
+comment5.target=int[]\ getDatos(int[],\ int[],\ int,\ int)
+numComments=6

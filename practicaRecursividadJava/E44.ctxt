@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=E44
+comment1.params=numFibo
+comment1.target=int\ primosEnFibonaci(int)
+comment2.params=lista\ i
+comment2.target=int\ primos(java.util.ArrayList,\ int)
+comment3.params=k
+comment3.target=boolean\ primo(int)
+comment4.params=i
+comment4.target=java.util.ArrayList\ generarSerie(int)
+comment5.params=i
+comment5.target=int\ serieFibonaci(int)
+numComments=6

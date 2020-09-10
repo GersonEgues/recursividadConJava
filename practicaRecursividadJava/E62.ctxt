@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E62
+comment1.params=n
+comment1.target=int\ eliminarNumerosRepetidos(int)
+comment2.params=n\ pow\ flag\ ans
+comment2.target=java.util.ArrayList\ eliminar(int,\ int,\ int[],\ java.util.ArrayList)
+comment3.params=num\ i\ pow
+comment3.target=int\ numero(java.util.ArrayList,\ int,\ int)
+numComments=4

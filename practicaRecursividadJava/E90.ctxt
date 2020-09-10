@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E90
+comment1.params=n
+comment1.target=boolean\ monticulo(int)
+comment2.params=n\ last
+comment2.target=boolean\ asendente(int,\ int)
+comment3.params=n\ last
+comment3.target=int\ getAsendente(int,\ int)
+numComments=4

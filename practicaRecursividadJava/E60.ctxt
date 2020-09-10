@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E60
+comment1.params=n
+comment1.target=boolean\ siames(int)
+comment2.params=n\ a\ i
+comment2.target=int[]\ getArreglo(int,\ int[],\ int)
+comment3.params=a\ i\ j
+comment3.target=boolean\ siames(int[],\ int,\ int)
+numComments=4

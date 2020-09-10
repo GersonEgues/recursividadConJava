@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E69
+comment1.params=n
+comment1.target=java.lang.String\ posible(int)
+comment2.params=c\ i
+comment2.target=java.lang.String\ getNumero(int,\ int)
+comment3.params=n
+comment3.target=boolean\ ocho(int)
+numComments=4

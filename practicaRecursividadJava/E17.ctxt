@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=E17
+comment1.params=cad\ c
+comment1.target=int\ numCaracteres(java.lang.String,\ char)
+comment2.params=cad\ c\ i
+comment2.target=int\ numCaracteres(java.lang.String,\ char,\ int)
+comment3.params=cad
+comment3.target=java.lang.String\ invertido(java.lang.String)
+comment4.params=cad\ i
+comment4.target=java.lang.String\ invertido(java.lang.String,\ int)
+comment5.params=cad
+comment5.target=int\ vocales(java.lang.String)
+comment6.params=cad\ i
+comment6.target=int\ vocales(java.lang.String,\ int)
+numComments=7

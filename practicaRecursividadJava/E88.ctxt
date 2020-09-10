@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=E88
+comment1.params=alumnos\ a1\ a2
+comment1.target=void\ noJuntos(java.lang.String[],\ java.lang.String,\ java.lang.String)
+comment2.params=alumnos\ a1\ a2\ i
+comment2.target=void\ eliminarJuntos(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=grupo\ a1\ a2\ i
+comment3.target=boolean\ juntos(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=permutaciones
+comment4.target=void\ print(java.util.ArrayList)
+comment5.params=datos
+comment5.target=java.util.ArrayList\ permutacioness(java.lang.String[])
+comment6.params=datos\ i
+comment6.target=java.util.ArrayList\ permutaciones_nPn(java.lang.String[],\ int)
+comment7.params=n\ per\ i
+comment7.target=void\ mix(java.lang.String,\ java.util.ArrayList,\ int)
+comment8.params=datos
+comment8.target=java.util.ArrayList\ permutaciones(java.lang.String[])
+comment9.params=datos\ i\ ans\ j\ k
+comment9.target=java.lang.String[]\ getDatos(java.lang.String[],\ int,\ java.lang.String[],\ int,\ int)
+numComments=10

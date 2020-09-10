@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E32
+comment1.params=
+comment1.target=E32()
+comment2.params=n
+comment2.target=int\ eliminar(int)
+comment3.params=n\ udc
+comment3.target=int\ eliminar(int,\ int)
+numComments=4

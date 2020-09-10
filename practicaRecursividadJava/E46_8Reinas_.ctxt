@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=E46_8Reinas_
+comment1.params=
+comment1.target=void\ setReinas()
+comment2.params=i\ j\ mat\ cont
+comment2.target=void\ setReinas(int,\ int,\ int[][],\ int)
+comment3.params=i\ j\ mat
+comment3.target=boolean\ posAtacada(int,\ int,\ int[][])
+comment4.params=i\ j\ p
+comment4.target=boolean\ dPrin(int,\ int,\ int[])
+comment5.params=i\ j\ mat
+comment5.target=void\ atacar(int,\ int,\ int[][])
+comment6.params=i\ j\ mat
+comment6.target=int[]\ getPos(int,\ int,\ int[][])
+comment7.params=i\ j
+comment7.target=int[]\ getPos2(int,\ int)
+comment8.params=x\ y\ mat
+comment8.target=boolean\ posicionValida(int,\ int,\ int[][])
+comment9.params=mat
+comment9.target=void\ print(int[][])
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E100_BK
+comment1.params=
+comment1.target=int\ verduras()
+comment2.params=i\ j\ mat
+comment2.target=int\ verduras(int,\ int,\ char[][])
+comment3.params=x\ y\ mat
+comment3.target=boolean\ posicionValida(int,\ int,\ char[][])
+numComments=4

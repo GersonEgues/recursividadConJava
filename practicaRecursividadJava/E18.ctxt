@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E18
+comment1.params=n
+comment1.target=int\ promedio(int)
+comment2.params=n\ m
+comment2.target=int\ promedio2(int,\ int)
+comment3.params=n
+comment3.target=int\ invertir(int)
+comment4.params=n\ udc
+comment4.target=int\ invertir(int,\ int)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E31
+comment0.text=\r\n/**\r\n\ recibe\ 2\ entradas,\ laparte\ entera\ y\ la\ decimal,\ la\ decimal\ entra\ como\ un\ entero\r\n\ es\ decir\ 0.30\ cts\ \=\ 30\ cvts\r\n\ solo\ admite\ decimales\ de\ 2\ digitos.\r\n
+comment1.params=entero\ ctvs
+comment1.target=java.lang.String\ detalle(int,\ int)
+comment2.params=ctvs
+comment2.target=java.lang.String\ detalleCtvs(int)
+comment2.text=\r\n\ \ \ \ \ \ \ 1\ \=\ 100\r\n\ \ \ \ \ \ \ 0.50\ \=\ 50\ ->\ 0.50*100\ \=\ 50.0\r\n\ \ \ \ \ \ \ 0.25\ \=\ 25\ ->\ \r\n
+numComments=3

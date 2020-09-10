@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E48
+comment1.params=cad\ pat
+comment1.target=int\ subcadenaMasLarga(java.lang.String,\ java.lang.String)
+comment2.params=cad\ j\ pat\ frec
+comment2.target=int\ cadenaLarga(java.lang.String,\ int,\ java.lang.String,\ int[])
+comment3.params=suma\ cad\ j\ pat\ k\ frecuencia
+comment3.target=int\ getTamanioPatron(int,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int[])
+comment4.params=ans\ cad\ c\ i\ frec\ j
+comment4.target=java.lang.String\ contraer(java.lang.String,\ java.lang.String,\ char,\ int,\ int[],\ int)
+numComments=5

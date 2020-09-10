@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E28
+comment1.params=c1\ c2
+comment1.target=boolean\ prefijo(java.lang.String,\ java.lang.String)
+comment2.params=c1\ c2\ i
+comment2.target=boolean\ prefijo(java.lang.String,\ java.lang.String,\ int)
+comment3.params=c1\ c2
+comment3.target=boolean\ sufijo(java.lang.String,\ java.lang.String)
+comment4.params=c1\ c2\ i\ j
+comment4.target=boolean\ sufijo(java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=5

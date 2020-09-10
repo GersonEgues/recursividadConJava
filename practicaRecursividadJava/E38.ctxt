@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E38
+comment1.params=
+comment1.target=void\ conjuntoClausura()
+comment2.params=i\ f
+comment2.target=java.util.ArrayList\ conCla(int,\ int)
+comment3.params=i\ ini
+comment3.target=java.util.ArrayList\ generar(int,\ int)
+comment4.params=i\ ini
+comment4.target=java.util.ArrayList\ generar2(int,\ int)
+numComments=5

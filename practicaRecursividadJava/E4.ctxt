@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=E4
+comment1.params=n
+comment1.target=java.util.ArrayList\ factoresPrimos(int)
+comment2.params=i\ n
+comment2.target=java.util.ArrayList\ factoresPrimos(int,\ int)
+comment3.params=n
+comment3.target=boolean\ primo(int)
+comment4.params=n\ lim\ i
+comment4.target=boolean\ primo(int,\ int,\ int)
+numComments=5

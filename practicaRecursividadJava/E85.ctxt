@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=E85
+comment0.text=\r\n\ la\ respuesta\ de\ ejercicio\ esta\ mal,\ hay\ un\ "t"\ demas\r\n\ \r\n\ st\ \ \ s\ \ una\ soria\ \ \ \ de\ mieo,\ \ \ \ \ las\ ltas\ \ \ dsaparcn\ \ \ \ in\ \ abero\ \ \ y\ son\ asenadas\ \ \ r\r\n\ esta\ es\ una\ historia\ de\ misterio,\ las\ letras\ desaparecen\ sin\ saberlo\ y\ son\ asesinadas\ por\r\n\ ea\ \ \ e\ \ \ \ \ \ hti\ \ \ \ \ \ \ \ \ stri\ \ \ \ \ \ \ \ \ \ er\ \ \ \ \ eee\ \ \ \ \ \ \ \ \ s\ \ \ sl\ \ \ \ \ \ \ \ \ \ \ \ is\ \ \ \ \ \ \ \ \ po\r\n\r\n\ respuesta\ correcta\ \=\ eaehtistriereeesslispo\ \r\n
+comment1.params=strVirus\ strBackup
+comment1.target=java.lang.String\ letrasFaltantes(java.lang.String,\ java.lang.String)
+comment2.params=virus\ backup\ i
+comment2.target=java.lang.String\ letras(java.lang.String[],\ java.lang.String[],\ int)
+comment3.params=v\ b\ i
+comment3.target=java.lang.String\ analizar(java.lang.String,\ java.lang.String,\ int)
+comment4.params=v\ c\ i
+comment4.target=java.lang.String\ eliminar(java.lang.String,\ char,\ int)
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=E72
+comment1.params=sec
+comment1.target=int\ maximo(int[])
+comment2.params=i\ sec\ max\ cont
+comment2.target=void\ maximo(int,\ int[],\ int[],\ int)
+numComments=3

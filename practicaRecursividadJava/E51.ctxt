@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=E51
+comment1.params=n
+comment1.target=void\ rotarDerecha(int)
+comment2.params=nRot\ n\ i
+comment2.target=void\ get_nRot(int[],\ int,\ int)
+comment3.params=n\ desc
+comment3.target=int\ getSuma(int,\ int)
+comment4.params=mat\ nRot\ matRot\ i
+comment4.target=int[][]\ rotarMatriz(int[][],\ int[],\ int[][],\ int)
+comment5.params=mat\ nRot\ matRot\ i\ j
+comment5.target=void\ rotarMatriz2(int[][],\ int[],\ int[][],\ int,\ int)
+comment6.params=nmat
+comment6.target=void\ print(int[][])
+numComments=7
